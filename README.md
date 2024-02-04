@@ -1,5 +1,5 @@
-# HealthCare
-Healthcare Fraud detection System
+# Healthcare Fraud detection System
+
 The goal of this project is to "predict the potentially fraudulent providers" based on the claims
 filed by them. Along with this, we will also discover important variables helpful in detecting
 the behavior of potentially fraud providers. further,we will study fraudulent patterns in the
